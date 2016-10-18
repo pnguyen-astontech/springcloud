@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="talk-service:war exploded">
+    <output-path>$PROJECT_DIR$/talk-service/target/talk-service</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="talk-service" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="talk-service/web/Web" />
+    </root>
+  </artifact>
+</component>

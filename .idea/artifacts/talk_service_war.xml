@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="talk-service:war">
+    <output-path>$PROJECT_DIR$/talk-service/target</output-path>
+    <root id="archive" name="talk-service.war">
+      <element id="artifact" artifact-name="talk-service:war exploded" />
+    </root>
+  </artifact>
+</component>
